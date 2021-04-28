@@ -1,0 +1,1 @@
+This is a test file. This will be used to find out how many times a character is repeated inside a file.
